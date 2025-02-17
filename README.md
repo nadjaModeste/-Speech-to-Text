@@ -12,16 +12,11 @@ ospour la gestion des fichiers audio
 Installez les dépendances nécessaires :
 ch.
 
-Photocopieuse
 
-Modificateur
 pip install speechrecognition gtts pyaudio
 Lance le script :
 ch.
 
-Photocopieuse
-
-Modificateur
 python script.py
 Choisissez une option :
 1 : Convertir un texte en fichier audio ( output.mp3).
